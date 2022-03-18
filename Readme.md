@@ -1,4 +1,4 @@
-# Nome do projeto
+# NAC 1 de IA
 
 **Nome dos alunos:** 
 
